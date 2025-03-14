@@ -1,0 +1,8 @@
+v1.0.0
+Mod: Language = 2
+Mod: Enabled = true 
+System: FPSlimit = 60
+System: FPSlimit = 60
+
+Done read ini on game init
+
